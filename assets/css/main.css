@@ -2056,7 +2056,7 @@ input, select, textarea {
 			height: 100%;
 			left: 0;
 			opacity: 0.5;
-			position: absolute;
+			/* position: absolute; */
 			top: 0;
 			width: 100%;
 		}
@@ -2145,6 +2145,11 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 100%;
 			}
+		
+		.project {
+			width: 60%;
+			height: auto
+		}
 
 /* List */
 
